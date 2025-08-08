@@ -1,0 +1,55 @@
+<div class="container mt-5">
+  <div class="row justify-content-center">
+    <div class="col-md-4">
+      <div class="card p-4 shadow-sm border-0 rounded-3">
+        <h4 class="mb-4 text-center">Login</h4>
+
+        <!-- Email -->
+        <div class="mb-3">
+          <label for="emailInput" class="form-label">Email</label>
+          <input
+            type="email"
+            id="emailInput"
+            class="form-control"
+            placeholder="email@example.com"
+            [(ngModel)]="username"
+            (ngModelChange)="checkEmail()"
+            required
+          />
+          <div *ngIf="!isValidEmail" class="text-danger small mt-1">
+            Please enter a valid email.
+          </div>
+        </div>
+
+        <!-- Password -->
+        <div class="mb-3">
+          <label for="passwordInput" class="form-label">Password</label>
+          <p-password
+            id="passwordInput"
+            [(ngModel)]="password"
+            [invalid]="!isValidPass"
+            (ngModelChange)="checkPass()"
+            placeholder="Password"
+            [feedback]="true"
+            styleClass="w-100"
+          ></p-password>
+          <div *ngIf="!isValidPass" class="text-danger small mt-1">
+            Password must be at least 6 characters, contain 1 uppercase letter,
+            and 1 special character.
+          </div>
+        </div>
+
+        <!-- Buttons -->
+        <div class="d-flex justify-content-between mt-4">
+          <button class="btn btn-primary px-4" (click)="login()">Login</button>
+          <a
+            class="btn btn-outline-secondary px-4"
+            [routerLink]="['/Register']"
+          >
+            Register
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
