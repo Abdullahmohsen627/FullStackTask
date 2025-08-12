@@ -1,9 +1,8 @@
 <div class="container d-flex justify-content-center align-items-center vh-100">
-  <div class="card shadow p-4" style="max-width: 600px; width: 100%;">
+  <div class="card shadow p-4" style="max-width: 600px; width: 100%">
     <h2 class="text-center mb-4">Sign Up as a Company</h2>
 
     <form #signupForm="ngForm" (ngSubmit)="onSubmit()" novalidate>
-      
       <div class="mb-3">
         <label class="form-label">Arabic Company Name</label>
         <input
@@ -13,10 +12,14 @@
           [(ngModel)]="model.companyArabicName"
           required
           #AName="ngModel"
+          pattern="^[\u0600-\u06FF\s]+$"
         />
         <div *ngIf="AName.invalid && AName.touched">
           <small class="text-danger" *ngIf="AName.errors?.['required']">
             Required
+          </small>
+          <small class="text-danger" *ngIf="AName.errors?.['pattern']">
+            Must be in Arabic
           </small>
         </div>
       </div>
