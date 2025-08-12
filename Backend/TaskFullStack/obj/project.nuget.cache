@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4HwfAgOSWnQ=",
+  "dgSpecHash": "WR79RNVpn3s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lapcell\\Desktop\\New folder\\Backend\\TaskFullStack\\TaskFullStack.csproj",
+  "projectFilePath": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\App.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lapcell\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
     "C:\\Users\\lapcell\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

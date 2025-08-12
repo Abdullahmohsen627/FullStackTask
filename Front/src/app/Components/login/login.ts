@@ -1,12 +1,11 @@
-
 import { Component } from '@angular/core';
 import { Router, RouterLink } from '@angular/router';
-import { Authentication } from '../../_Services/aurhentication';
+import { Authentication } from '../../Core/services/authentication';
 import { LoginDTO } from '../../DTOs/login-dto';
 import { PasswordModule } from 'primeng/password';
 import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
-import { Details } from '../../_Services/details';
+import { Details } from '../../Core/services/details';
 
 @Component({
   selector: 'app-login',
@@ -20,9 +19,12 @@ export class Login {
   isValidPass: boolean = true;
   isValidEmail: boolean = true;
 
-  constructor(public auth: Authentication, public router: Router,public details:Details) {}
+  constructor(
+    public auth: Authentication,
+    public router: Router,
+    public details: Details
+  ) {}
 
- 
   checkEmail() {
     const emailPattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
     this.isValidEmail = emailPattern.test(this.username);

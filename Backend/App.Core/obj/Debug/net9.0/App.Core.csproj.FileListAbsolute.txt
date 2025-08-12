@@ -1,0 +1,58 @@
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\bin\Debug\net9.0\App.Domain.staticwebassets.endpoints.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\bin\Debug\net9.0\App.Core.staticwebassets.endpoints.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\bin\Debug\net9.0\App.Core.deps.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\bin\Debug\net9.0\App.Core.dll
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\bin\Debug\net9.0\App.Core.pdb
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\bin\Debug\net9.0\App.Domain.dll
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\bin\Debug\net9.0\App.Domain.pdb
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\obj\Debug\net9.0\App.Core.csproj.AssemblyReference.cache
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\obj\Debug\net9.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\obj\Debug\net9.0\App.Core.AssemblyInfoInputs.cache
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\obj\Debug\net9.0\App.Core.AssemblyInfo.cs
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\obj\Debug\net9.0\App.Core.csproj.CoreCompileInputs.cache
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\obj\Debug\net9.0\App.Core.sourcelink.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\obj\Debug\net9.0\scopedcss\bundle\App.Core.styles.css
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\obj\Debug\net9.0\staticwebassets\msbuild.App.Core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\obj\Debug\net9.0\staticwebassets\msbuild.App.Core.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\obj\Debug\net9.0\staticwebassets\msbuild.build.App.Core.props
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.App.Core.props
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.App.Core.props
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\obj\Debug\net9.0\App.Core.csproj.Up2Date
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\obj\Debug\net9.0\App.Core.dll
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\obj\Debug\net9.0\refint\App.Core.dll
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\obj\Debug\net9.0\App.Core.pdb
+C:\Users\lapcell\Desktop\New folder\Backend\App.Core\obj\Debug\net9.0\ref\App.Core.dll
+C:\Users\lapcell\Desktop\new\Backend\App.Core\bin\Debug\net9.0\App.Domain.staticwebassets.endpoints.json
+C:\Users\lapcell\Desktop\new\Backend\App.Core\bin\Debug\net9.0\App.Core.staticwebassets.endpoints.json
+C:\Users\lapcell\Desktop\new\Backend\App.Core\bin\Debug\net9.0\App.Core.deps.json
+C:\Users\lapcell\Desktop\new\Backend\App.Core\bin\Debug\net9.0\App.Core.dll
+C:\Users\lapcell\Desktop\new\Backend\App.Core\bin\Debug\net9.0\App.Core.pdb
+C:\Users\lapcell\Desktop\new\Backend\App.Core\bin\Debug\net9.0\App.Domain.dll
+C:\Users\lapcell\Desktop\new\Backend\App.Core\bin\Debug\net9.0\App.Domain.pdb
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\App.Core.csproj.AssemblyReference.cache
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\App.Core.AssemblyInfoInputs.cache
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\App.Core.AssemblyInfo.cs
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\App.Core.csproj.CoreCompileInputs.cache
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\App.Core.sourcelink.json
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\scopedcss\bundle\App.Core.styles.css
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\staticwebassets\msbuild.App.Core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\staticwebassets\msbuild.App.Core.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\staticwebassets\msbuild.build.App.Core.props
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.App.Core.props
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.App.Core.props
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\App.Core.csproj.Up2Date
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\App.Core.dll
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\refint\App.Core.dll
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\App.Core.pdb
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\ref\App.Core.dll

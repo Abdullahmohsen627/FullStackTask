@@ -14,7 +14,7 @@ import {
   withEventReplay,
 } from '@angular/platform-browser';
 import { provideHttpClient, withInterceptors } from '@angular/common/http';
-import { loginInterceptor } from './Interceptors/login-interceptor';
+import { loginInterceptor } from './Core/services/login-interceptor';
 
 export const appConfig: ApplicationConfig = {
   providers: [

@@ -1,0 +1,50 @@
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\bin\Debug\net9.0\App.Domain.staticwebassets.endpoints.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\bin\Debug\net9.0\App.Domain.deps.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\bin\Debug\net9.0\App.Domain.dll
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\bin\Debug\net9.0\App.Domain.pdb
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\obj\Debug\net9.0\App.Domain.csproj.AssemblyReference.cache
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\obj\Debug\net9.0\App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\obj\Debug\net9.0\App.Domain.AssemblyInfoInputs.cache
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\obj\Debug\net9.0\App.Domain.AssemblyInfo.cs
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\obj\Debug\net9.0\App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\obj\Debug\net9.0\App.Domain.sourcelink.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\obj\Debug\net9.0\scopedcss\bundle\App.Domain.styles.css
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\obj\Debug\net9.0\staticwebassets\msbuild.App.Domain.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\obj\Debug\net9.0\staticwebassets\msbuild.App.Domain.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\obj\Debug\net9.0\staticwebassets\msbuild.build.App.Domain.props
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.App.Domain.props
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.App.Domain.props
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\obj\Debug\net9.0\App.Domain.dll
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\obj\Debug\net9.0\refint\App.Domain.dll
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\obj\Debug\net9.0\App.Domain.pdb
+C:\Users\lapcell\Desktop\New folder\Backend\App.Domian\obj\Debug\net9.0\ref\App.Domain.dll
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\bin\Debug\net9.0\App.Domain.staticwebassets.endpoints.json
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\bin\Debug\net9.0\App.Domain.deps.json
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\bin\Debug\net9.0\App.Domain.dll
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\bin\Debug\net9.0\App.Domain.pdb
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\App.Domain.csproj.AssemblyReference.cache
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\App.Domain.AssemblyInfoInputs.cache
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\App.Domain.AssemblyInfo.cs
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\App.Domain.sourcelink.json
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\scopedcss\bundle\App.Domain.styles.css
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\staticwebassets\msbuild.App.Domain.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\staticwebassets\msbuild.App.Domain.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\staticwebassets\msbuild.build.App.Domain.props
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.App.Domain.props
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.App.Domain.props
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\App.Domain.dll
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\refint\App.Domain.dll
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\App.Domain.pdb
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\ref\App.Domain.dll

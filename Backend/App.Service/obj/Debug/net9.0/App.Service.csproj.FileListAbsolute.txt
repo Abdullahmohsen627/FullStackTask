@@ -1,0 +1,64 @@
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\bin\Debug\net9.0\App.Domain.staticwebassets.endpoints.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\bin\Debug\net9.0\App.Infrastructure.staticwebassets.endpoints.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\bin\Debug\net9.0\App.Service.staticwebassets.endpoints.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\bin\Debug\net9.0\App.Service.deps.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\bin\Debug\net9.0\App.Service.dll
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\bin\Debug\net9.0\App.Service.pdb
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\bin\Debug\net9.0\App.Domain.dll
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\bin\Debug\net9.0\App.Infrastructure.dll
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\bin\Debug\net9.0\App.Domain.pdb
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\bin\Debug\net9.0\App.Infrastructure.pdb
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\obj\Debug\net9.0\App.Service.csproj.AssemblyReference.cache
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\obj\Debug\net9.0\App.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\obj\Debug\net9.0\App.Service.AssemblyInfoInputs.cache
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\obj\Debug\net9.0\App.Service.AssemblyInfo.cs
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\obj\Debug\net9.0\App.Service.csproj.CoreCompileInputs.cache
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\obj\Debug\net9.0\App.Service.sourcelink.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\obj\Debug\net9.0\scopedcss\bundle\App.Service.styles.css
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\obj\Debug\net9.0\staticwebassets\msbuild.App.Service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\obj\Debug\net9.0\staticwebassets\msbuild.App.Service.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\obj\Debug\net9.0\staticwebassets\msbuild.build.App.Service.props
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.App.Service.props
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.App.Service.props
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\obj\Debug\net9.0\App.Serv.6C426F77.Up2Date
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\obj\Debug\net9.0\App.Service.dll
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\obj\Debug\net9.0\refint\App.Service.dll
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\obj\Debug\net9.0\App.Service.pdb
+C:\Users\lapcell\Desktop\New folder\Backend\App.Service\obj\Debug\net9.0\ref\App.Service.dll
+C:\Users\lapcell\Desktop\new\Backend\App.Service\bin\Debug\net9.0\App.Domain.staticwebassets.endpoints.json
+C:\Users\lapcell\Desktop\new\Backend\App.Service\bin\Debug\net9.0\App.Infrastructure.staticwebassets.endpoints.json
+C:\Users\lapcell\Desktop\new\Backend\App.Service\bin\Debug\net9.0\App.Service.staticwebassets.endpoints.json
+C:\Users\lapcell\Desktop\new\Backend\App.Service\bin\Debug\net9.0\App.Service.deps.json
+C:\Users\lapcell\Desktop\new\Backend\App.Service\bin\Debug\net9.0\App.Service.dll
+C:\Users\lapcell\Desktop\new\Backend\App.Service\bin\Debug\net9.0\App.Service.pdb
+C:\Users\lapcell\Desktop\new\Backend\App.Service\bin\Debug\net9.0\App.Domain.dll
+C:\Users\lapcell\Desktop\new\Backend\App.Service\bin\Debug\net9.0\App.Infrastructure.dll
+C:\Users\lapcell\Desktop\new\Backend\App.Service\bin\Debug\net9.0\App.Domain.pdb
+C:\Users\lapcell\Desktop\new\Backend\App.Service\bin\Debug\net9.0\App.Infrastructure.pdb
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\App.Service.csproj.AssemblyReference.cache
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\App.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\App.Service.AssemblyInfoInputs.cache
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\App.Service.AssemblyInfo.cs
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\App.Service.csproj.CoreCompileInputs.cache
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\App.Service.sourcelink.json
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\scopedcss\bundle\App.Service.styles.css
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\staticwebassets\msbuild.App.Service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\staticwebassets\msbuild.App.Service.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\staticwebassets\msbuild.build.App.Service.props
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.App.Service.props
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.App.Service.props
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\App.Serv.6C426F77.Up2Date
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\App.Service.dll
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\refint\App.Service.dll
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\App.Service.pdb
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\ref\App.Service.dll

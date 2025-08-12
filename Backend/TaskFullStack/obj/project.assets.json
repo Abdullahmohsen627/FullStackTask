@@ -1659,6 +1659,81 @@
             "rid": "win"
           }
         }
+      },
+      "App.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "App.Domain": "1.0.0",
+          "AutoMapper": "15.0.1",
+          "Microsoft.AspNetCore.OpenApi": "9.0.6"
+        },
+        "compile": {
+          "bin/placeholder/App.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App.Core.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "App.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.OpenApi": "9.0.6"
+        },
+        "compile": {
+          "bin/placeholder/App.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App.Domain.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "App.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "App.Domain": "1.0.0",
+          "Microsoft.AspNetCore.OpenApi": "9.0.6",
+          "Microsoft.EntityFrameworkCore": "9.0.7",
+          "Microsoft.EntityFrameworkCore.Relational": "9.0.7",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.7"
+        },
+        "compile": {
+          "bin/placeholder/App.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App.Infrastructure.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "App.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "App.Domain": "1.0.0",
+          "App.Infrastructure": "1.0.0",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.7",
+          "Microsoft.AspNetCore.OpenApi": "9.0.6",
+          "Microsoft.IdentityModel.Tokens": "8.0.1",
+          "System.IdentityModel.Tokens.Jwt": "8.0.1"
+        },
+        "compile": {
+          "bin/placeholder/App.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App.Service.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -4621,10 +4696,34 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "App.Core/1.0.0": {
+      "type": "project",
+      "path": "../App.Core/App.Core.csproj",
+      "msbuildProject": "../App.Core/App.Core.csproj"
+    },
+    "App.Domain/1.0.0": {
+      "type": "project",
+      "path": "../App.Domian/App.Domain.csproj",
+      "msbuildProject": "../App.Domian/App.Domain.csproj"
+    },
+    "App.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../App.Infrastructure/App.Infrastructure.csproj",
+      "msbuildProject": "../App.Infrastructure/App.Infrastructure.csproj"
+    },
+    "App.Service/1.0.0": {
+      "type": "project",
+      "path": "../App.Service/App.Service.csproj",
+      "msbuildProject": "../App.Service/App.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "App.Core >= 1.0.0",
+      "App.Domain >= 1.0.0",
+      "App.Infrastructure >= 1.0.0",
+      "App.Service >= 1.0.0",
       "AutoMapper >= 15.0.1",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 9.0.7",
       "Microsoft.AspNetCore.OpenApi >= 9.0.6",
@@ -4642,11 +4741,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lapcell\\Desktop\\New folder\\Backend\\TaskFullStack\\TaskFullStack.csproj",
-      "projectName": "TaskFullStack",
-      "projectPath": "C:\\Users\\lapcell\\Desktop\\New folder\\Backend\\TaskFullStack\\TaskFullStack.csproj",
+      "projectUniqueName": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\App.Api.csproj",
+      "projectName": "App.Api",
+      "projectPath": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\App.Api.csproj",
       "packagesPath": "C:\\Users\\lapcell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lapcell\\Desktop\\New folder\\Backend\\TaskFullStack\\obj\\",
+      "outputPath": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4666,7 +4765,20 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\lapcell\\Desktop\\new\\Backend\\App.Core\\App.Core.csproj": {
+              "projectPath": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\App.Core\\App.Core.csproj"
+            },
+            "C:\\Users\\lapcell\\Desktop\\new\\Backend\\App.Domian\\App.Domain.csproj": {
+              "projectPath": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\App.Domian\\App.Domain.csproj"
+            },
+            "C:\\Users\\lapcell\\Desktop\\new\\Backend\\App.Infrastructure\\App.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\App.Infrastructure\\App.Infrastructure.csproj"
+            },
+            "C:\\Users\\lapcell\\Desktop\\new\\Backend\\App.Service\\App.Service.csproj": {
+              "projectPath": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\App.Service\\App.Service.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

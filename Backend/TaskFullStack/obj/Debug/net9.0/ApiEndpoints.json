@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "TaskFullStack.Controllers.AuthenticationController",
+    "ContainingType": "App.Api.Controllers.AuthenticationController",
     "Method": "IsAuthenticated",
     "RelativePath": "api/Authentication",
     "HttpMethod": "GET",
@@ -10,7 +10,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TaskFullStack.Controllers.AuthenticationController",
+    "ContainingType": "App.Api.Controllers.AuthenticationController",
     "Method": "Login",
     "RelativePath": "api/Authentication",
     "HttpMethod": "POST",
@@ -19,14 +19,14 @@
     "Parameters": [
       {
         "Name": "login",
-        "Type": "TaskFullStack.DTOs.LoginDTO",
+        "Type": "App.Domain.DTOs.LoginDTO",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TaskFullStack.Controllers.HomeController",
+    "ContainingType": "App.Api.Controllers.HomeController",
     "Method": "HomePage",
     "RelativePath": "api/Home",
     "HttpMethod": "GET",
@@ -36,7 +36,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TaskFullStack.Controllers.RegistrationController",
+    "ContainingType": "App.Api.Controllers.RegistrationController",
     "Method": "Registration",
     "RelativePath": "api/Registration",
     "HttpMethod": "POST",
@@ -45,14 +45,14 @@
     "Parameters": [
       {
         "Name": "registrationDTO",
-        "Type": "TaskFullStack.DTOs.registrationDTO",
+        "Type": "App.Domain.DTOs.registrationDTO",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TaskFullStack.Controllers.RegistrationController",
+    "ContainingType": "App.Api.Controllers.RegistrationController",
     "Method": "SendMessage",
     "RelativePath": "api/Registration/GetNewOTP",
     "HttpMethod": "POST",
@@ -68,7 +68,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TaskFullStack.Controllers.RegistrationController",
+    "ContainingType": "App.Api.Controllers.RegistrationController",
     "Method": "SetPassword",
     "RelativePath": "api/Registration/setPassword",
     "HttpMethod": "POST",
@@ -77,14 +77,14 @@
     "Parameters": [
       {
         "Name": "userDTO",
-        "Type": "TaskFullStack.DTOs.UserDTO",
+        "Type": "App.Domain.DTOs.UserDTO",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TaskFullStack.Controllers.RegistrationController",
+    "ContainingType": "App.Api.Controllers.RegistrationController",
     "Method": "UploadLogo",
     "RelativePath": "api/Registration/UploadLogo",
     "HttpMethod": "POST",
@@ -100,7 +100,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TaskFullStack.Controllers.RegistrationController",
+    "ContainingType": "App.Api.Controllers.RegistrationController",
     "Method": "ValidateOTP",
     "RelativePath": "api/Registration/ValidateOTP",
     "HttpMethod": "POST",
@@ -109,14 +109,14 @@
     "Parameters": [
       {
         "Name": "emailOTPDTO",
-        "Type": "TaskFullStack.DTOs.EmailOTPDTO",
+        "Type": "App.Domain.DTOs.EmailOTPDTO",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TaskFullStack.Controllers.User",
+    "ContainingType": "App.Api.Controllers.User",
     "Method": "UserDetails",
     "RelativePath": "api/User",
     "HttpMethod": "GET",

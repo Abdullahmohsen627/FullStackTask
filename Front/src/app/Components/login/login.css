@@ -5,6 +5,9 @@
   margin-top: 10%;
   gap: 2%;
 }
+.custom-parent {
+  margin-top: 10%;
+}
 
 .custom-input {
   width: 30%;

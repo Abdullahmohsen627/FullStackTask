@@ -1,9 +1,10 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
-import { Authentication } from '../../_Services/aurhentication';
+import { Authentication } from '../../Core/services/authentication';
 import { HttpClient } from '@angular/common/http';
-import { response } from 'express';
-import { Details } from '../../_Services/details';
+import { Details } from '../../Core/services/details';
+import { environment } from '../../../environments/environments';
+import { home } from '../../Core/services/home';
 
 @Component({
   selector: 'app-home',
@@ -16,21 +17,18 @@ export class Home implements OnInit {
     public router: Router,
     public auth: Authentication,
     public http: HttpClient,
-    public details: Details
+    public details: Details,
+    public home: home
   ) {}
+  private photosUrl = environment.photosUrl;
   message: string = '';
   src: string = '';
   ngOnInit() {
-    this.http
-      .get('https://localhost:7146/api/Home', {
-        responseType: 'text',
-      })
-      .subscribe((message) => {
-        this.message = message; // Assuming the API returns an object with a 'username' property
-      });
-    this.src = `https://localhost:7146/uploads/images/${
-      this.details.getDetails().logoUrl
-    }`;
+    this.home.homecontent().subscribe((mess) => {
+      this.message = mess;
+      this.src = this.photosUrl + `${this.details.getDetails().logoUrl}`;
+    });
+
     console.log(this.details.getDetails());
   }
   // Add any methods or properties needed for the Home component

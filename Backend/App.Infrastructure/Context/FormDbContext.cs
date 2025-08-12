@@ -1,0 +1,16 @@
+﻿using Microsoft.EntityFrameworkCore;
+using App.Domain.Entities;
+
+namespace App.Infrastructure.Context
+{
+    public class FormDbContext : DbContext
+    {   
+        public FormDbContext(DbContextOptions<FormDbContext> options):base(options)
+        {
+            
+        }
+    
+        public virtual DbSet<user> Users { get; set; }
+        public virtual DbSet<EmailOTP> emailOTPs  { get; set; }
+    }
+}

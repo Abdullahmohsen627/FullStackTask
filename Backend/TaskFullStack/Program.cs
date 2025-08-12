@@ -1,18 +1,14 @@
 using System.Text;
-using Microsoft.AspNetCore.Authentication.Cookies;
+using App.Domain.Entities;
+using App.Infrastructure.Context;
+using App.Infrastructure.RepoUnitOfWork;
+using App.Service.ServUnitOfWork;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
-using TaskFullStack.Context;
-using TaskFullStack.IRepositories;
-using TaskFullStack.IServices;
-using TaskFullStack.Mapping;
-using TaskFullStack.Models;
-using TaskFullStack.Repositories;
-using TaskFullStack.RepoUnitOfWork;
-using TaskFullStack.Services;
-using TaskFullStack.ServUnitOfWork;
+using App.Domain.DTOs;
+using App.Core.Mapping;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,7 +18,7 @@ builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 //builder.Services.AddDbContext<Data>(op => op.UseNpgsql(builder.Configuration.GetConnectionString("webApiDatabase")));
-builder.Services.AddDbContext<Data>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("dev")));
+builder.Services.AddDbContext<FormDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("dev")));
 builder.Services.AddScoped<IRepoUnitOfWork, RepoUnitOfWork>();
 builder.Services.AddScoped<IServUnitOfWork, ServUnitOfWork>();
 
@@ -80,7 +76,6 @@ if (app.Environment.IsDevelopment())
 
 app.UseCors();
 app.UseHttpsRedirection();
-
 app.UseStaticFiles();
 app.UseAuthentication();
 

@@ -2,11 +2,11 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using TaskFullStack.DTOs;
-using TaskFullStack.Models;
-using TaskFullStack.ServUnitOfWork;
+using App.Domain.DTOs;
+using App.Service.ServUnitOfWork;
+using App.Domain.Entities;
 
-namespace TaskFullStack.Controllers
+namespace App.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
