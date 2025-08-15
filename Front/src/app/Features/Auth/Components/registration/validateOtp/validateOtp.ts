@@ -1,15 +1,17 @@
-import { asNativeElements, Component } from '@angular/core';
-import { EmailOTPDTO } from '../../../DTOs/email-otpdto';
-import { InputOtpModule } from 'primeng/inputotp';
-import { FormsModule } from '@angular/forms';
-import { ButtonModule } from 'primeng/button';
+import { Component } from '@angular/core';
+
 import { CommonModule } from '@angular/common';
-import { TooltipModule } from 'primeng/tooltip';
-import { Router, RouterLink } from '@angular/router';
 import { HttpClient } from '@angular/common/http';
-import { Details } from '../../../Core/services/details';
-import { environment } from '../../../../environments/environments';
-import { Registration } from '../../../Core/services/registration';
+import { FormsModule } from '@angular/forms';
+import { Router, RouterLink } from '@angular/router';
+import { ButtonModule } from 'primeng/button';
+import { InputOtpModule } from 'primeng/inputotp';
+import { TooltipModule } from 'primeng/tooltip';
+import { environment } from '../../../../../../environments/environments';
+import { Details } from '../../../../../Core/services/details';
+import { EmailOTPDTO } from '../../../DTOs/emailOtp-dto';
+import { Registration } from '../../../Services/registration';
+
 @Component({
   selector: 'app-validate-otp',
   imports: [
@@ -42,7 +44,7 @@ export class ValidateOTP {
   }
   resendCode() {
     // Logic to resend OTP
-    let email: string | null = this.details.getDetails().email; // Get email from UserDTO
+    let email: string = this.details.getDetails().email; // Get email from UserDTO
     console.log('Resending OTP...');
     this.value = ''; // Clear the input field if OTP is invalid
     const eles = document.querySelectorAll(

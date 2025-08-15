@@ -4,9 +4,10 @@ import { PasswordModule } from 'primeng/password';
 import { CommonModule } from '@angular/common';
 import { Router, RouterLink } from '@angular/router';
 import { HttpClient } from '@angular/common/http';
-import { UserDTO } from '../../../DTOs/user-dto';
-import { Details } from '../../../Core/services/details';
-import { Registration } from '../../../Core/services/registration';
+
+import { Details } from '../../../../../Core/services/details';
+import { Registration } from '../../../Services/registration';
+import { UserDTO } from '../../../../../DTOs/user-dto';
 
 @Component({
   selector: 'app-set-password',

@@ -1,11 +1,11 @@
 import { Component } from '@angular/core';
 import { Router, RouterLink } from '@angular/router';
-import { Authentication } from '../../Core/services/authentication';
 import { LoginDTO } from '../../DTOs/login-dto';
 import { PasswordModule } from 'primeng/password';
 import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
-import { Details } from '../../Core/services/details';
+import { Details } from '../../../../Core/services/details';
+import { Authentication } from '../../Services/authentication';
 
 @Component({
   selector: 'app-login',

@@ -1,7 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { environment } from '../../../environments/environments';
-import { Details } from './details';
+import { environment } from '../../../../environments/environments';
+import { Details } from '../../../Core/services/details';
 
 @Injectable({
   providedIn: 'root',
@@ -14,5 +14,6 @@ export class home {
     return this.http.get(this.baseUrl + 'Home', {
       responseType: 'text',
     });
+    
   }
 }

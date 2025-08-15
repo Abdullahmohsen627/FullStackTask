@@ -21,6 +21,14 @@
       "PackagePath": "staticwebassets\\uploads\\images\\5bf07746-b41b-4c06-acae-7ce09f37e0d4.jpg"
     },
     {
+      "Id": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\wwwroot\\uploads\\images\\605b8ab3-c2aa-45c5-baac-2818d17c59ed.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\605b8ab3-c2aa-45c5-baac-2818d17c59ed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\wwwroot\\uploads\\images\\6bd2038e-36db-48ee-99d7-5f3c20cb2ec0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\6bd2038e-36db-48ee-99d7-5f3c20cb2ec0.jpg"
+    },
+    {
       "Id": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\wwwroot\\uploads\\images\\7208c90c-bd65-4b11-acfa-d8326815f335.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\7208c90c-bd65-4b11-acfa-d8326815f335.jpg"
     },
@@ -29,12 +37,24 @@
       "PackagePath": "staticwebassets\\uploads\\images\\77e0dae5-8ae9-433c-9014-febd7962ba35.jpg"
     },
     {
+      "Id": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\wwwroot\\uploads\\images\\a0baa34e-6d47-458a-ac65-63b8d456dc17.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\a0baa34e-6d47-458a-ac65-63b8d456dc17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\wwwroot\\uploads\\images\\a8fd4c28-e7ef-4b14-a861-d5eb48f13d5e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\a8fd4c28-e7ef-4b14-a861-d5eb48f13d5e.jpg"
+    },
+    {
       "Id": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\wwwroot\\uploads\\images\\bf1af4e8-1d9b-4bf1-bbcd-b9e278352a43.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\bf1af4e8-1d9b-4bf1-bbcd-b9e278352a43.jpg"
     },
     {
       "Id": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\wwwroot\\uploads\\images\\deb4b6d8-d818-43d9-8499-e7823bab0b3c.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\deb4b6d8-d818-43d9-8499-e7823bab0b3c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\wwwroot\\uploads\\images\\dff9a265-2539-4839-915a-d9974802222f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\dff9a265-2539-4839-915a-d9974802222f.jpg"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.App.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

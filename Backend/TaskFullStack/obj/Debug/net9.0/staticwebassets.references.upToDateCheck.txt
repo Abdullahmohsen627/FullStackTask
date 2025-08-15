@@ -30,3 +30,11 @@ C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\staticwebassets
 C:\Users\lapcell\Desktop\new\Backend\App.Infrastructure\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lapcell\Desktop\new\Backend\App.Infrastructure\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lapcell\Desktop\new\Backend\App.Infrastructure\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lapcell\Desktop\new\Backend\App.Service\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lapcell\Desktop\new\Backend\App.Core\obj\Debug\net9.0\staticwebassets.build.json

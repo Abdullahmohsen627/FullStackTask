@@ -1,10 +1,10 @@
+import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
-import { Authentication } from '../../Core/services/authentication';
-import { HttpClient } from '@angular/common/http';
-import { Details } from '../../Core/services/details';
-import { environment } from '../../../environments/environments';
-import { home } from '../../Core/services/home';
+import { environment } from '../../../../../environments/environments';
+import { Details } from '../../../../Core/services/details';
+import { Authentication } from '../../../Auth/Services/authentication';
+import { home } from '../../Services/home';
 
 @Component({
   selector: 'app-home',
@@ -26,7 +26,7 @@ export class Home implements OnInit {
   ngOnInit() {
     this.home.homecontent().subscribe((mess) => {
       this.message = mess;
-      this.src = this.photosUrl + `${this.details.getDetails().logoUrl}`;
+      this.src = this.photosUrl + localStorage.getItem('logoUrl');
     });
 
     console.log(this.details.getDetails());

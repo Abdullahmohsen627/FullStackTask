@@ -1,12 +1,12 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Router } from '@angular/router';
-import { UserDTO } from '../../DTOs/user-dto';
-import { RegistrationDTO } from '../../DTOs/registration-dto';
-import { Details } from './details';
-import { environment } from '../../../environments/environments';
-import { EmailOTPDTO } from '../../DTOs/email-otpdto';
 import { firstValueFrom } from 'rxjs';
+import { environment } from '../../../../environments/environments';
+import { Details } from '../../../Core/services/details';
+import { UserDTO } from '../../../DTOs/user-dto';
+import { EmailOTPDTO } from '../DTOs/emailOtp-dto';
+import { RegistrationDTO } from '../DTOs/registration-dto';
 
 @Injectable({
   providedIn: 'root',
@@ -65,7 +65,7 @@ export class Registration {
         }
       });
   }
-  async uploadLogo(selectedFile:File): Promise<string> {
+  async uploadLogo(selectedFile: File): Promise<string> {
     if (!selectedFile) return '';
 
     const formData = new FormData();

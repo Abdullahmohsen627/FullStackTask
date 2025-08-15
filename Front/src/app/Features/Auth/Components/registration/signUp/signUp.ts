@@ -5,10 +5,9 @@ import { HttpClient } from '@angular/common/http';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { firstValueFrom } from 'rxjs';
-import { UserDTO } from '../../../DTOs/user-dto';
-import { Details } from '../../../Core/services/details';
-import { Registration } from '../../../Core/services/registration';
-import { environment } from '../../../../environments/environments';
+import { Details } from '../../../../../Core/services/details';
+import { environment } from '../../../../../../environments/environments';
+import { Registration } from '../../../Services/registration';
 
 @Component({
   selector: 'app-sign-up',
