@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\uploads\\images\\2564661a-cd07-4ac6-90c3-c30ee53ff710.jpg"
     },
     {
+      "Id": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\wwwroot\\uploads\\images\\4089a600-62bf-40a9-bdfa-d62ac0f9998c.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\4089a600-62bf-40a9-bdfa-d62ac0f9998c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\wwwroot\\uploads\\images\\4c62abae-d6c1-45b7-86d4-fddfec20302a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\4c62abae-d6c1-45b7-86d4-fddfec20302a.jpg"
+    },
+    {
       "Id": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\wwwroot\\uploads\\images\\51b3b470-df72-4b28-a685-2a8a98065525.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\51b3b470-df72-4b28-a685-2a8a98065525.jpg"
     },
@@ -37,6 +45,10 @@
       "PackagePath": "staticwebassets\\uploads\\images\\77e0dae5-8ae9-433c-9014-febd7962ba35.jpg"
     },
     {
+      "Id": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\wwwroot\\uploads\\images\\92077a12-89ab-48e5-ae9f-4fd89322546f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\92077a12-89ab-48e5-ae9f-4fd89322546f.jpg"
+    },
+    {
       "Id": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\wwwroot\\uploads\\images\\a0baa34e-6d47-458a-ac65-63b8d456dc17.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\a0baa34e-6d47-458a-ac65-63b8d456dc17.jpg"
     },
@@ -55,6 +67,10 @@
     {
       "Id": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\wwwroot\\uploads\\images\\dff9a265-2539-4839-915a-d9974802222f.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\dff9a265-2539-4839-915a-d9974802222f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\wwwroot\\uploads\\images\\e5bbcc53-0da8-4348-a598-7465fa063ab0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\e5bbcc53-0da8-4348-a598-7465fa063ab0.jpg"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.App.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

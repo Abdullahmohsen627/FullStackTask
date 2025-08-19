@@ -3,7 +3,6 @@ import { Injectable } from '@angular/core';
 import { Router } from '@angular/router';
 import { environment } from '../../../../environments/environments';
 import { Details } from '../../../Core/services/details';
-import { UserDTO } from '../../../DTOs/user-dto';
 import { LoginDTO } from '../DTOs/login-dto';
 
 @Injectable({
@@ -26,14 +25,7 @@ export class Authentication {
         localStorage.setItem('token', token);
         console.log(token);
         this.isloggedIn = true;
-        // Navigate to home after successful login
-        this.http
-          .get(this.baseUrl + `User?email=${encodeURIComponent(logDTO.Email)}`)
-          .subscribe((info) => {
-            this.details.setDetails(info as UserDTO);
-            localStorage.setItem('logoUrl', this.details.getDetails().logoUrl); // Store user details
-            this.router.navigateByUrl('/Home');
-          }); // Store user details
+        this.router.navigateByUrl('/Home');
       });
   }
   logOut() {

@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace App.Domain.Entities
 {
@@ -14,5 +15,8 @@ namespace App.Domain.Entities
         public DateTime SendingTime { get; set; }
         [Required,DefaultValue(false)]
         public bool IsValidated { get; set; }
+        public Guid? UserId { get; set; }
+        public virtual user User { get; set; }
+
     }
 }

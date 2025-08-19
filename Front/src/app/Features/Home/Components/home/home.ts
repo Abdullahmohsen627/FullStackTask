@@ -3,6 +3,7 @@ import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { environment } from '../../../../../environments/environments';
 import { Details } from '../../../../Core/services/details';
+import { UserDTO } from '../../../../DTOs/user-dto';
 import { Authentication } from '../../../Auth/Services/authentication';
 import { home } from '../../Services/home';
 
@@ -25,11 +26,10 @@ export class Home implements OnInit {
   src: string = '';
   ngOnInit() {
     this.home.homecontent().subscribe((mess) => {
-      this.message = mess;
-      this.src = this.photosUrl + localStorage.getItem('logoUrl');
+      this.details.setDetails(mess as UserDTO);
+      this.src = this.photosUrl + this.details.getDetails().logoUrl;
+      this.message = 'Welcome ' + this.details.getDetails().companyEnglishName;
     });
-
-    console.log(this.details.getDetails());
   }
   // Add any methods or properties needed for the Home component
   logOut() {

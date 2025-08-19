@@ -11,9 +11,7 @@ export class home {
   baseUrl = environment.BaseUrl;
   photosUrl = environment.photosUrl;
   homecontent() {
-    return this.http.get(this.baseUrl + 'Home', {
-      responseType: 'text',
-    });
+    return this.http.get(this.baseUrl + 'Home');
     
   }
 }

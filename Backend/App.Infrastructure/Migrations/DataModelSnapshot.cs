@@ -22,7 +22,7 @@ namespace TaskFullStack.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("TaskFullStack.Models.EmailOTP", b =>
+            modelBuilder.Entity("App.Domain.Entities.EmailOTP", b =>
                 {
                     b.Property<Guid>("id")
                         .ValueGeneratedOnAdd()
@@ -42,12 +42,17 @@ namespace TaskFullStack.Migrations
                     b.Property<DateTime>("SendingTime")
                         .HasColumnType("datetime2");
 
+                    b.Property<Guid?>("UserId")
+                        .HasColumnType("uniqueidentifier");
+
                     b.HasKey("id");
+
+                    b.HasIndex("UserId");
 
                     b.ToTable("emailOTPs");
                 });
 
-            modelBuilder.Entity("TaskFullStack.Models.user", b =>
+            modelBuilder.Entity("App.Domain.Entities.user", b =>
                 {
                     b.Property<Guid>("id")
                         .ValueGeneratedOnAdd()
@@ -82,6 +87,21 @@ namespace TaskFullStack.Migrations
                     b.HasKey("id");
 
                     b.ToTable("Users");
+                });
+
+            modelBuilder.Entity("App.Domain.Entities.EmailOTP", b =>
+                {
+                    b.HasOne("App.Domain.Entities.user", "User")
+                        .WithMany("EmailOTPs")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade);
+
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("App.Domain.Entities.user", b =>
+                {
+                    b.Navigation("EmailOTPs");
                 });
 #pragma warning restore 612, 618
         }

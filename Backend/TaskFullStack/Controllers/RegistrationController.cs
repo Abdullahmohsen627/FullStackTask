@@ -35,6 +35,7 @@ namespace App.Api.Controllers
         [HttpPost, Route("GetNewOTP")]
         public async Task<IActionResult> SendMessage([FromBody]string email)
         {
+            user user=await _servUnitOfWork.UserService.GetUserByEmailAsync(email);
             Random random = new Random();
             string OTP = random.Next(100000, 999999).ToString();
             await _servUnitOfWork.EmailService.SendEmailAsync(email, "OTP Validator", OTP);
@@ -43,7 +44,8 @@ namespace App.Api.Controllers
             {
                 Email = email,
                 OTP = OTP,
-                SendingTime = DateTime.Now
+                SendingTime = DateTime.Now,
+                UserId=user.id,
             };
             await _servUnitOfWork.EmailOTPService.AddEmailOTPAsync(emailOTP);
             await _servUnitOfWork.SaveChangesAsync();

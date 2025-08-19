@@ -1,10 +1,10 @@
-import { Component } from '@angular/core';
-import { Router, RouterLink } from '@angular/router';
-import { LoginDTO } from '../../DTOs/login-dto';
-import { PasswordModule } from 'primeng/password';
-import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
+import { Component } from '@angular/core';
+import { FormsModule } from '@angular/forms';
+import { Router, RouterLink } from '@angular/router';
+import { PasswordModule } from 'primeng/password';
 import { Details } from '../../../../Core/services/details';
+import { LoginDTO } from '../../DTOs/login-dto';
 import { Authentication } from '../../Services/authentication';
 
 @Component({
