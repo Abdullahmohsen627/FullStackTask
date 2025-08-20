@@ -15,8 +15,6 @@ namespace App.Domain.Entities
         public DateTime SendingTime { get; set; }
         [Required,DefaultValue(false)]
         public bool IsValidated { get; set; }
-        public Guid? UserId { get; set; }
-        public virtual user User { get; set; }
 
     }
 }

@@ -22,10 +22,5 @@ namespace App.Domain.Entities
         [RegularExpression(@"^(?=.[A-Z])(?=.[0-9])(?=.[!@#$%^&()_+\-=\[\]{};':""\\|,.<>\/?]).{6,}$",
      ErrorMessage = "Password must contain at least one capital letter, one number, one special character, and be at least 6 characters long."), DefaultValue("M@261099mm")]
         public string password { get; set; }
-
-        public virtual List<EmailOTP> EmailOTPs {  get; set; }
-
-
-
     }
 }

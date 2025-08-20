@@ -1,32 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{08C9C898-D52F-4E59-8071-BD31F856AA3D}|App.Domian\\App.Domain.csproj|c:\\users\\lapcell\\desktop\\new\\backend\\app.domian\\entities\\emailotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C9C898-D52F-4E59-8071-BD31F856AA3D}|App.Domian\\App.Domain.csproj|solutionrelative:app.domian\\entities\\emailotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDB978E2-B694-4799-A0DF-D8DEF57B917B}|App.Infrastructure\\App.Infrastructure.csproj|c:\\users\\lapcell\\desktop\\new\\backend\\app.infrastructure\\migrations\\datamodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB978E2-B694-4799-A0DF-D8DEF57B917B}|App.Infrastructure\\App.Infrastructure.csproj|solutionrelative:app.infrastructure\\migrations\\datamodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{484D4DBF-673F-4F13-903F-8551A91FD698}|TaskFullStack\\App.Api.csproj|c:\\users\\lapcell\\desktop\\new\\backend\\taskfullstack\\controllers\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{484D4DBF-673F-4F13-903F-8551A91FD698}|TaskFullStack\\App.Api.csproj|solutionrelative:taskfullstack\\controllers\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{484D4DBF-673F-4F13-903F-8551A91FD698}|TaskFullStack\\App.Api.csproj|c:\\users\\lapcell\\desktop\\new\\backend\\taskfullstack\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{484D4DBF-673F-4F13-903F-8551A91FD698}|TaskFullStack\\App.Api.csproj|solutionrelative:taskfullstack\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04F9CE32-68D1-4AC0-9549-BB00863C67CA}|App.Core\\App.Core.csproj|c:\\users\\lapcell\\desktop\\new\\backend\\app.core\\mapping\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04F9CE32-68D1-4AC0-9549-BB00863C67CA}|App.Core\\App.Core.csproj|solutionrelative:app.core\\mapping\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{484D4DBF-673F-4F13-903F-8551A91FD698}|TaskFullStack\\App.Api.csproj|c:\\users\\lapcell\\desktop\\new\\backend\\taskfullstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{484D4DBF-673F-4F13-903F-8551A91FD698}|TaskFullStack\\App.Api.csproj|solutionrelative:taskfullstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -34,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,84 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmailOTP.cs",
-              "DocumentMoniker": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\App.Domian\\Entities\\EmailOTP.cs",
-              "RelativeDocumentMoniker": "App.Domian\\Entities\\EmailOTP.cs",
-              "ToolTip": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\App.Domian\\Entities\\EmailOTP.cs",
-              "RelativeToolTip": "App.Domian\\Entities\\EmailOTP.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T23:40:28.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DataModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\App.Infrastructure\\Migrations\\DataModelSnapshot.cs",
-              "RelativeDocumentMoniker": "App.Infrastructure\\Migrations\\DataModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\App.Infrastructure\\Migrations\\DataModelSnapshot.cs",
-              "RelativeToolTip": "App.Infrastructure\\Migrations\\DataModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T23:39:30.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\Controllers\\User.cs",
-              "RelativeDocumentMoniker": "TaskFullStack\\Controllers\\User.cs",
-              "ToolTip": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\Controllers\\User.cs",
-              "RelativeToolTip": "TaskFullStack\\Controllers\\User.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T23:15:21.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "TaskFullStack\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "TaskFullStack\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T23:14:52.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserMap.cs",
-              "DocumentMoniker": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\App.Core\\Mapping\\UserMap.cs",
-              "RelativeDocumentMoniker": "App.Core\\Mapping\\UserMap.cs",
-              "ToolTip": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\App.Core\\Mapping\\UserMap.cs",
-              "RelativeToolTip": "App.Core\\Mapping\\UserMap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T23:09:38.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\Program.cs",
-              "RelativeDocumentMoniker": "TaskFullStack\\Program.cs",
-              "ToolTip": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\Program.cs",
-              "RelativeToolTip": "TaskFullStack\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T23:08:41.447Z",
-              "EditorCaption": ""
             }
           ]
         }

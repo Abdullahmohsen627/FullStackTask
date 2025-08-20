@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\wwwroot\\uploads\\images\\06304aeb-cff0-40c2-b4a3-e7aeff9db1a3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\06304aeb-cff0-40c2-b4a3-e7aeff9db1a3.jpg"
+    },
+    {
       "Id": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\wwwroot\\uploads\\images\\1213b563-bf52-4bd4-ad93-64c372abcaac.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\1213b563-bf52-4bd4-ad93-64c372abcaac.jpg"
     },
@@ -11,6 +15,10 @@
     {
       "Id": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\wwwroot\\uploads\\images\\2564661a-cd07-4ac6-90c3-c30ee53ff710.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\2564661a-cd07-4ac6-90c3-c30ee53ff710.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\wwwroot\\uploads\\images\\2adc33f0-fc1d-46c1-b162-3bf911c7c010.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\2adc33f0-fc1d-46c1-b162-3bf911c7c010.jpg"
     },
     {
       "Id": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\wwwroot\\uploads\\images\\4089a600-62bf-40a9-bdfa-d62ac0f9998c.jpg",
@@ -35,6 +43,10 @@
     {
       "Id": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\wwwroot\\uploads\\images\\6bd2038e-36db-48ee-99d7-5f3c20cb2ec0.jpg",
       "PackagePath": "staticwebassets\\uploads\\images\\6bd2038e-36db-48ee-99d7-5f3c20cb2ec0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\wwwroot\\uploads\\images\\6cc137ed-c995-4883-96e8-84b73f21eb83.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\6cc137ed-c995-4883-96e8-84b73f21eb83.jpg"
     },
     {
       "Id": "C:\\Users\\lapcell\\Desktop\\new\\Backend\\TaskFullStack\\wwwroot\\uploads\\images\\7208c90c-bd65-4b11-acfa-d8326815f335.jpg",

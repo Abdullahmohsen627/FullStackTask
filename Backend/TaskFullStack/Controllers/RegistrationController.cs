@@ -45,7 +45,6 @@ namespace App.Api.Controllers
                 Email = email,
                 OTP = OTP,
                 SendingTime = DateTime.Now,
-                UserId=user.id,
             };
             await _servUnitOfWork.EmailOTPService.AddEmailOTPAsync(emailOTP);
             await _servUnitOfWork.SaveChangesAsync();
