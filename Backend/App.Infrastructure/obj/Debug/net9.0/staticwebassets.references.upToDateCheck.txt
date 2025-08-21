@@ -41,3 +41,4 @@ C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\staticwebassets
 C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lapcell\Desktop\new\Backend\App.Domian\obj\Debug\net9.0\staticwebassets.build.json

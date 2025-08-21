@@ -23,7 +23,6 @@ export class Authentication {
       })
       .subscribe((token) => {
         localStorage.setItem('token', token);
-        console.log(token);
         this.isloggedIn = true;
         this.router.navigateByUrl('/Home');
       });
